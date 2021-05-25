@@ -4,4 +4,4 @@
 ## Используются технологии
 -HTML
 -CSS
--Bootstrap v5
+-Bootstrap v5.0
